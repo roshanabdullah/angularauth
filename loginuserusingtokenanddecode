@@ -1,0 +1,13 @@
+  //loginUser(){
+   // this.http.post('https://dummyjson.com/auth/login', this.data, {
+      //headers: new HttpHeaders().set('Content-Type' , 'application/json')
+    //}).subscribe((res: any) => {
+      //localStorage.setItem('auth-token', res.token)
+    //})
+  //}
+
+  //getCurrentLoggedInUserDetailsFromToken(){
+      //let token: any = localStorage.getItem('auth-token');
+      //const decode: any = jwt_decode(token);
+      //Object.assign(this.currentlyLoggedInUser, decode)
+  //}
